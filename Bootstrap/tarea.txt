@@ -1,0 +1,4 @@
+1. Crear una página nueva llamada sucursales.html
+2. Utilizar el css de Bootstrap
+3. Agregar un título a la página 
+4. Agregar un párrafo y una imagen en el archivo
